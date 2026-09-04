@@ -19,3 +19,8 @@ Running tests:
 • Run all tests → ```npx playwright test```
     
 • View HTML test report → ```npx playwright show-report```
+
+
+
+Video File Report:
+https://github.com/user-attachments/assets/f6a50f5a-a2a0-402e-aa17-1bb10b2ea9c9
